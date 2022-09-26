@@ -7,7 +7,7 @@
   - To start the package, setup properly and run roscore
   - Launch with launch/launch_navvis.launch
   - "use_xacro" shoud be true
-  - "use_gui" is set true on default, which automaticaly starts joint_state_publisher_gui for adjusting the wheels' rotation
+  - "use_gui" is set true on default, which automaticaly starts joint_state_publisher_gui for adjusting the wheels' rotation. Set "use_gui" to false to disable.
 ## **Comments**
   - Future updates (labs) might come up, to bring the package to completion
   
